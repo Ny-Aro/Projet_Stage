@@ -1,0 +1,134 @@
+C:\Users\ezer\source\repos\ProjetStage\ProjetStage\bin\Debug\ProjetStage.exe.config
+C:\Users\ezer\source\repos\ProjetStage\ProjetStage\bin\Debug\ProjetStage.exe
+C:\Users\ezer\source\repos\ProjetStage\ProjetStage\bin\Debug\ProjetStage.pdb
+C:\Users\ezer\source\repos\ProjetStage\ProjetStage\bin\Debug\CircularProgressBar.dll
+C:\Users\ezer\source\repos\ProjetStage\ProjetStage\bin\Debug\WinFormAnimation.dll
+C:\Users\ezer\source\repos\ProjetStage\ProjetStage\bin\Debug\CircularProgressBar.xml
+C:\Users\ezer\source\repos\ProjetStage\ProjetStage\bin\Debug\WinFormAnimation.xml
+C:\Users\ezer\source\repos\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.AssemblyReference.cache
+C:\Users\ezer\source\repos\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Form1.resources
+C:\Users\ezer\source\repos\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Properties.Resources.resources
+C:\Users\ezer\source\repos\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.GenerateResource.cache
+C:\Users\ezer\source\repos\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.CoreCompileInputs.cache
+C:\Users\ezer\source\repos\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.CopyComplete
+C:\Users\ezer\source\repos\ProjetStage\ProjetStage\obj\Debug\ProjetStage.exe
+C:\Users\ezer\source\repos\ProjetStage\ProjetStage\obj\Debug\ProjetStage.pdb
+C:\Users\ezer\source\repos\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Login.resources
+C:\Users\ezer\source\repos\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Dashboard.resources
+C:\Users\ezer\source\repos\ProjetStage\ProjetStage\bin\Debug\Guna.UI2.dll
+C:\Users\ezer\source\repos\WinForms\ProjetStage\ProjetStage\bin\Debug\ProjetStage.exe.config
+C:\Users\ezer\source\repos\WinForms\ProjetStage\ProjetStage\bin\Debug\ProjetStage.exe
+C:\Users\ezer\source\repos\WinForms\ProjetStage\ProjetStage\bin\Debug\ProjetStage.pdb
+C:\Users\ezer\source\repos\WinForms\ProjetStage\ProjetStage\bin\Debug\CircularProgressBar.dll
+C:\Users\ezer\source\repos\WinForms\ProjetStage\ProjetStage\bin\Debug\Guna.UI2.dll
+C:\Users\ezer\source\repos\WinForms\ProjetStage\ProjetStage\bin\Debug\WinFormAnimation.dll
+C:\Users\ezer\source\repos\WinForms\ProjetStage\ProjetStage\bin\Debug\CircularProgressBar.xml
+C:\Users\ezer\source\repos\WinForms\ProjetStage\ProjetStage\bin\Debug\WinFormAnimation.xml
+C:\Users\ezer\source\repos\WinForms\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.AssemblyReference.cache
+C:\Users\ezer\source\repos\WinForms\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Dashboard.resources
+C:\Users\ezer\source\repos\WinForms\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Form1.resources
+C:\Users\ezer\source\repos\WinForms\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Login.resources
+C:\Users\ezer\source\repos\WinForms\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Properties.Resources.resources
+C:\Users\ezer\source\repos\WinForms\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.GenerateResource.cache
+C:\Users\ezer\source\repos\WinForms\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.CoreCompileInputs.cache
+C:\Users\ezer\source\repos\WinForms\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.CopyComplete
+C:\Users\ezer\source\repos\WinForms\ProjetStage\ProjetStage\obj\Debug\ProjetStage.exe
+C:\Users\ezer\source\repos\WinForms\ProjetStage\ProjetStage\obj\Debug\ProjetStage.pdb
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage\ProjetStage\bin\Debug\ProjetStage.exe.config
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage\ProjetStage\bin\Debug\ProjetStage.exe
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage\ProjetStage\bin\Debug\ProjetStage.pdb
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage\ProjetStage\bin\Debug\CircularProgressBar.dll
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage\ProjetStage\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage\ProjetStage\bin\Debug\WinFormAnimation.dll
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage\ProjetStage\bin\Debug\CircularProgressBar.xml
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage\ProjetStage\bin\Debug\WinFormAnimation.xml
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Dashboard.resources
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Form1.resources
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Login.resources
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Properties.Resources.resources
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage\ProjetStage\obj\Debug\ProjetStage.csproj.CopyComplete
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage\ProjetStage\obj\Debug\ProjetStage.exe
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage\ProjetStage\obj\Debug\ProjetStage.pdb
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage\ProjetStage\obj\Debug\ProjetStage.Message.resources
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\bin\Debug\ProjetStage.exe.config
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\bin\Debug\ProjetStage.exe
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\bin\Debug\ProjetStage.pdb
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\bin\Debug\CircularProgressBar.dll
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\bin\Debug\WinFormAnimation.dll
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\bin\Debug\CircularProgressBar.xml
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\bin\Debug\WinFormAnimation.xml
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\obj\Debug\ProjetStage.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\obj\Debug\ProjetStage.Dashboard.resources
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\obj\Debug\ProjetStage.Form1.resources
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\obj\Debug\ProjetStage.Login.resources
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\obj\Debug\ProjetStage.Message.resources
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\obj\Debug\ProjetStage.Properties.Resources.resources
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\obj\Debug\ProjetStage.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\obj\Debug\ProjetStage.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\obj\Debug\ProjetStage.csproj.CopyComplete
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\obj\Debug\ProjetStage.exe
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\obj\Debug\ProjetStage.pdb
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\obj\Debug\ProjetStage.Information.resources
+C:\Users\User\Desktop\Nouveau dossier\ProjetStage - Avec Backend\ProjetStage\obj\Debug\ProjetStage.Historique.resources
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\ProjetStage.exe.config
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\ProjetStage.exe
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\ProjetStage.pdb
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\CircularProgressBar.dll
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\WinFormAnimation.dll
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\CircularProgressBar.xml
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\WinFormAnimation.xml
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.Dashboard.resources
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.Form1.resources
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.Historique.resources
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.Information.resources
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.Login.resources
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.Message.resources
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.Properties.Resources.resources
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.csproj.CopyComplete
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.exe
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.pdb
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.FileList.resources
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.Menu.resources
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.BackupSpecific.resources
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\ProjetStage.exe.config
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\ProjetStage.exe
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\ProjetStage.pdb
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\CircularProgressBar.dll
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\Guna.UI2.dll
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\WinFormAnimation.dll
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\CircularProgressBar.xml
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\bin\Debug\WinFormAnimation.xml
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.csproj.AssemblyReference.cache
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.BackupSpecific.resources
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.Dashboard.resources
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.FileList.resources
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.Form1.resources
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.Historique.resources
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.Information.resources
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.Login.resources
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.Menu.resources
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.Message.resources
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.Properties.Resources.resources
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.csproj.GenerateResource.cache
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.csproj.CoreCompileInputs.cache
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.csproj.CopyComplete
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.exe
+C:\Users\ezer\Desktop\Projet Stage\winForms\ProjetStage - New Modèle\ProjetStage\obj\Debug\ProjetStage.pdb
