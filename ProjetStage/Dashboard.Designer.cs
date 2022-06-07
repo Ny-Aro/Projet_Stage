@@ -47,7 +47,7 @@ namespace ProjetStage
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Berlin Sans FB Demi", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(235, 16);
+            this.label1.Location = new System.Drawing.Point(248, 16);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(221, 31);
             this.label1.TabIndex = 2;
@@ -58,7 +58,7 @@ namespace ProjetStage
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Berlin Sans FB", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.label3.Location = new System.Drawing.Point(264, 387);
+            this.label3.Location = new System.Drawing.Point(264, 427);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(183, 17);
             this.label3.TabIndex = 4;
@@ -79,9 +79,9 @@ namespace ProjetStage
             this.btnNbackup.FillColor2 = System.Drawing.Color.DarkOrange;
             this.btnNbackup.Font = new System.Drawing.Font("Berlin Sans FB Demi", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnNbackup.ForeColor = System.Drawing.Color.Black;
-            this.btnNbackup.Location = new System.Drawing.Point(138, 314);
+            this.btnNbackup.Location = new System.Drawing.Point(138, 350);
             this.btnNbackup.Name = "btnNbackup";
-            this.btnNbackup.Size = new System.Drawing.Size(146, 45);
+            this.btnNbackup.Size = new System.Drawing.Size(146, 49);
             this.btnNbackup.TabIndex = 8;
             this.btnNbackup.Text = "NBACKUP";
             this.btnNbackup.Click += new System.EventHandler(this.btnNbackup_Click);
@@ -101,9 +101,9 @@ namespace ProjetStage
             this.btnGbak.FillColor2 = System.Drawing.Color.DarkOrange;
             this.btnGbak.Font = new System.Drawing.Font("Berlin Sans FB Demi", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnGbak.ForeColor = System.Drawing.Color.Black;
-            this.btnGbak.Location = new System.Drawing.Point(409, 314);
+            this.btnGbak.Location = new System.Drawing.Point(409, 350);
             this.btnGbak.Name = "btnGbak";
-            this.btnGbak.Size = new System.Drawing.Size(146, 45);
+            this.btnGbak.Size = new System.Drawing.Size(146, 49);
             this.btnGbak.TabIndex = 9;
             this.btnGbak.Text = "GBAK";
             this.btnGbak.Click += new System.EventHandler(this.btnGbak_Click);
@@ -112,7 +112,7 @@ namespace ProjetStage
             // 
             this.infoIcon.Cursor = System.Windows.Forms.Cursors.Hand;
             this.infoIcon.Image = global::ProjetStage.Properties.Resources.info;
-            this.infoIcon.Location = new System.Drawing.Point(659, 371);
+            this.infoIcon.Location = new System.Drawing.Point(659, 411);
             this.infoIcon.Name = "infoIcon";
             this.infoIcon.Size = new System.Drawing.Size(29, 33);
             this.infoIcon.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -124,7 +124,7 @@ namespace ProjetStage
             // 
             this.historyIcon.Cursor = System.Windows.Forms.Cursors.Hand;
             this.historyIcon.Image = global::ProjetStage.Properties.Resources.recent;
-            this.historyIcon.Location = new System.Drawing.Point(12, 371);
+            this.historyIcon.Location = new System.Drawing.Point(12, 411);
             this.historyIcon.Name = "historyIcon";
             this.historyIcon.Size = new System.Drawing.Size(37, 33);
             this.historyIcon.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -138,7 +138,7 @@ namespace ProjetStage
             this.retourIcon.Image = global::ProjetStage.Properties.Resources.curve_arrow;
             this.retourIcon.Location = new System.Drawing.Point(12, 16);
             this.retourIcon.Name = "retourIcon";
-            this.retourIcon.Size = new System.Drawing.Size(37, 21);
+            this.retourIcon.Size = new System.Drawing.Size(37, 31);
             this.retourIcon.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.retourIcon.TabIndex = 13;
             this.retourIcon.TabStop = false;
@@ -148,10 +148,10 @@ namespace ProjetStage
             // 
             this.listFileView.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(40)))), ((int)(((byte)(80)))));
             this.listFileView.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.listFileView.Font = new System.Drawing.Font("Berlin Sans FB", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listFileView.Font = new System.Drawing.Font("Berlin Sans FB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listFileView.ForeColor = System.Drawing.Color.White;
             this.listFileView.HideSelection = false;
-            this.listFileView.Location = new System.Drawing.Point(94, 61);
+            this.listFileView.Location = new System.Drawing.Point(92, 86);
             this.listFileView.Name = "listFileView";
             this.listFileView.Size = new System.Drawing.Size(517, 242);
             this.listFileView.TabIndex = 14;
@@ -163,7 +163,7 @@ namespace ProjetStage
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(40)))), ((int)(((byte)(80)))));
-            this.ClientSize = new System.Drawing.Size(700, 420);
+            this.ClientSize = new System.Drawing.Size(700, 456);
             this.Controls.Add(this.listFileView);
             this.Controls.Add(this.retourIcon);
             this.Controls.Add(this.infoIcon);
@@ -174,7 +174,6 @@ namespace ProjetStage
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Dashboard";
-            this.Opacity = 0.99D;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Dashboard";
             this.Load += new System.EventHandler(this.Dashboard_Load);

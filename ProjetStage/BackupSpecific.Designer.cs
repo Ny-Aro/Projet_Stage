@@ -30,13 +30,12 @@ namespace ProjetStage
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(BackupSpecific));
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
             this.btnRetour = new System.Windows.Forms.PictureBox();
             this.listFileViewSpec = new System.Windows.Forms.ListView();
             this.label1 = new System.Windows.Forms.Label();
             this.txtInfo = new System.Windows.Forms.Label();
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label2 = new System.Windows.Forms.Label();
             this.dataListTable = new System.Windows.Forms.DataGridView();
             this.labelTableList = new System.Windows.Forms.Label();
@@ -47,11 +46,12 @@ namespace ProjetStage
             this.requete = new Guna.UI2.WinForms.Guna2TextBox();
             this.btnRequete = new Guna.UI2.WinForms.Guna2GradientButton();
             this.gridViewData = new System.Windows.Forms.DataGridView();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.btnRetour)).BeginInit();
             this.guna2Panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataListTable)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridViewData)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // btnRetour
@@ -69,10 +69,10 @@ namespace ProjetStage
             // listFileViewSpec
             // 
             this.listFileViewSpec.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(40)))), ((int)(((byte)(80)))));
-            this.listFileViewSpec.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listFileViewSpec.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listFileViewSpec.ForeColor = System.Drawing.Color.White;
             this.listFileViewSpec.HideSelection = false;
-            this.listFileViewSpec.Location = new System.Drawing.Point(12, 67);
+            this.listFileViewSpec.Location = new System.Drawing.Point(29, 67);
             this.listFileViewSpec.Name = "listFileViewSpec";
             this.listFileViewSpec.Size = new System.Drawing.Size(170, 342);
             this.listFileViewSpec.TabIndex = 15;
@@ -86,7 +86,7 @@ namespace ProjetStage
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.label1.Location = new System.Drawing.Point(37, 46);
+            this.label1.Location = new System.Drawing.Point(54, 46);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(121, 20);
             this.label1.TabIndex = 18;
@@ -110,20 +110,10 @@ namespace ProjetStage
             this.guna2Panel1.Controls.Add(this.txtInfo);
             this.guna2Panel1.Controls.Add(this.pictureBox1);
             this.guna2Panel1.Controls.Add(this.label2);
-            this.guna2Panel1.Location = new System.Drawing.Point(268, 67);
+            this.guna2Panel1.Location = new System.Drawing.Point(311, 67);
             this.guna2Panel1.Name = "guna2Panel1";
             this.guna2Panel1.Size = new System.Drawing.Size(496, 342);
             this.guna2Panel1.TabIndex = 19;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::ProjetStage.Properties.Resources.grinning;
-            this.pictureBox1.Location = new System.Drawing.Point(206, 264);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(80, 42);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 21;
-            this.pictureBox1.TabStop = false;
             // 
             // label2
             // 
@@ -143,16 +133,16 @@ namespace ProjetStage
             this.dataListTable.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.dataListTable.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.None;
             this.dataListTable.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.MenuHighlight;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dataListTable.DefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle8.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle8.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle8.SelectionBackColor = System.Drawing.SystemColors.MenuHighlight;
+            dataGridViewCellStyle8.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataListTable.DefaultCellStyle = dataGridViewCellStyle8;
             this.dataListTable.GridColor = System.Drawing.Color.White;
-            this.dataListTable.Location = new System.Drawing.Point(192, 67);
+            this.dataListTable.Location = new System.Drawing.Point(209, 67);
             this.dataListTable.Name = "dataListTable";
             this.dataListTable.RowHeadersVisible = false;
             this.dataListTable.RowHeadersWidth = 10;
@@ -164,7 +154,7 @@ namespace ProjetStage
             this.labelTableList.AutoSize = true;
             this.labelTableList.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelTableList.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.labelTableList.Location = new System.Drawing.Point(211, 46);
+            this.labelTableList.Location = new System.Drawing.Point(228, 46);
             this.labelTableList.Name = "labelTableList";
             this.labelTableList.Size = new System.Drawing.Size(124, 20);
             this.labelTableList.TabIndex = 20;
@@ -201,7 +191,7 @@ namespace ProjetStage
             this.infoProperty.ForeColor = System.Drawing.Color.Black;
             this.infoProperty.GridLines = true;
             this.infoProperty.HideSelection = false;
-            this.infoProperty.Location = new System.Drawing.Point(12, 425);
+            this.infoProperty.Location = new System.Drawing.Point(29, 428);
             this.infoProperty.Name = "infoProperty";
             this.infoProperty.Size = new System.Drawing.Size(350, 121);
             this.infoProperty.TabIndex = 23;
@@ -233,14 +223,14 @@ namespace ProjetStage
             this.requete.Font = new System.Drawing.Font("Century Gothic", 9.75F);
             this.requete.ForeColor = System.Drawing.Color.White;
             this.requete.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.requete.Location = new System.Drawing.Point(807, 505);
+            this.requete.Location = new System.Drawing.Point(854, 505);
+            this.requete.Multiline = true;
             this.requete.Name = "requete";
             this.requete.PasswordChar = '\0';
             this.requete.PlaceholderText = "Requête SQL";
             this.requete.SelectedText = "";
-            this.requete.Size = new System.Drawing.Size(375, 55);
+            this.requete.Size = new System.Drawing.Size(395, 55);
             this.requete.TabIndex = 24;
-            this.requete.Multiline = true;
             // 
             // btnRequete
             // 
@@ -259,7 +249,7 @@ namespace ProjetStage
             this.btnRequete.ForeColor = System.Drawing.Color.Black;
             this.btnRequete.Location = new System.Drawing.Point(615, 473);
             this.btnRequete.Name = "btnRequete";
-            this.btnRequete.Size = new System.Drawing.Size(173, 24);
+            this.btnRequete.Size = new System.Drawing.Size(173, 31);
             this.btnRequete.TabIndex = 25;
             this.btnRequete.Text = "Envoyer la requête";
             this.btnRequete.Click += new System.EventHandler(this.btnRequete_Click);
@@ -273,12 +263,22 @@ namespace ProjetStage
             this.gridViewData.Size = new System.Drawing.Size(240, 150);
             this.gridViewData.TabIndex = 26;
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::ProjetStage.Properties.Resources.grinning;
+            this.pictureBox1.Location = new System.Drawing.Point(206, 264);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(80, 42);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 21;
+            this.pictureBox1.TabStop = false;
+            // 
             // BackupSpecific
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(40)))), ((int)(((byte)(80)))));
-            this.ClientSize = new System.Drawing.Size(800, 570);
+            this.ClientSize = new System.Drawing.Size(859, 570);
             this.Controls.Add(this.gridViewData);
             this.Controls.Add(this.btnRequete);
             this.Controls.Add(this.requete);
@@ -292,16 +292,15 @@ namespace ProjetStage
             this.Controls.Add(this.btnRetour);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "BackupSpecific";
-            this.Opacity = 0.99D;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "BackupSpecific";
             this.Load += new System.EventHandler(this.BackupSpecific_Load);
             ((System.ComponentModel.ISupportInitialize)(this.btnRetour)).EndInit();
             this.guna2Panel1.ResumeLayout(false);
             this.guna2Panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataListTable)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridViewData)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -314,7 +313,6 @@ namespace ProjetStage
         private System.Windows.Forms.Label txtInfo;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label labelTableList;
         private Guna.UI2.WinForms.Guna2GradientButton btnSpecific;
         private System.Windows.Forms.ListView infoProperty;
@@ -324,5 +322,6 @@ namespace ProjetStage
         private Guna.UI2.WinForms.Guna2TextBox requete;
         private Guna.UI2.WinForms.Guna2GradientButton btnRequete;
         private System.Windows.Forms.DataGridView gridViewData;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

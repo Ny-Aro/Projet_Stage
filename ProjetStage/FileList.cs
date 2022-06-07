@@ -37,6 +37,8 @@ namespace ProjetStage
 
             CheminSection chemin = ConfigurationManager.GetSection("chemins") as CheminSection;
             var listItems = listFileView.Items;
+            listItems.Clear();
+            rechercheFile.Clear();
 
             #region Recherche des fichiers .FB et affichage
             foreach (CheminElement item in chemin.Chemins)
@@ -132,7 +134,9 @@ namespace ProjetStage
             }
             #endregion
 
+            rechercheFile.Clear();
+
         }
-    
+
     }
 }

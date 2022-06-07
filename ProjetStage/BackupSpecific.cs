@@ -202,18 +202,19 @@ namespace ProjetStage
                             dataListTable.Show();
 
                             dataListTable.DataSource = dt;
-
+                            
                             btnSpecific.Show();
+                            btnSpecific.Location = new Point(678, 428);
                             #endregion
 
                             #region Edit element et affichage nouvel element
                             guna2Panel1.Show();
-                            guna2Panel1.Size = new Size(420, 342);
-                            guna2Panel1.Location = new Point(370, 67);
+                            guna2Panel1.Size = new Size(440, 342);
+                            guna2Panel1.Location = new Point(400, 67);
                             btnRequete.Show();
-                            btnRequete.Location = new Point(596 ,137);
+                            btnRequete.Location = new Point(648 ,137);
                             requete.Show();
-                            requete.Location = new Point(392, 77);
+                            requete.Location = new Point(422, 77);
                             #endregion
 
                             #region Fermeture de la base
@@ -305,8 +306,8 @@ namespace ProjetStage
 
                             #region Affichage du gridview pour les données
                             gridViewData.Show();
-                            gridViewData.Size = new Size(385, 230);
-                            gridViewData.Location = new Point(388, 170);
+                            gridViewData.Size = new Size(395, 230);
+                            gridViewData.Location = new Point(422, 173);
                             gridViewData.BackgroundColor = Color.FromArgb(42, 40, 60);
                             gridViewData.DataSource = dt;
                             #endregion

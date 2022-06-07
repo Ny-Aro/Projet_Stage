@@ -56,9 +56,9 @@ namespace ProjetStage
             this.btnAll.FillColor2 = System.Drawing.Color.DarkOrange;
             this.btnAll.Font = new System.Drawing.Font("Berlin Sans FB Demi", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAll.ForeColor = System.Drawing.Color.Black;
-            this.btnAll.Location = new System.Drawing.Point(101, 349);
+            this.btnAll.Location = new System.Drawing.Point(101, 422);
             this.btnAll.Name = "btnAll";
-            this.btnAll.Size = new System.Drawing.Size(161, 39);
+            this.btnAll.Size = new System.Drawing.Size(161, 44);
             this.btnAll.TabIndex = 9;
             this.btnAll.Text = "Tous Backuper";
             this.btnAll.Click += new System.EventHandler(this.btnAll_Click);
@@ -72,7 +72,7 @@ namespace ProjetStage
             this.btnExit.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.btnExit.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.btnExit.FillColor = System.Drawing.Color.Transparent;
-            this.btnExit.Font = new System.Drawing.Font("Berlin Sans FB Demi", 14.25F, System.Drawing.FontStyle.Bold);
+            this.btnExit.Font = new System.Drawing.Font("Berlin Sans FB Demi", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnExit.ForeColor = System.Drawing.Color.White;
             this.btnExit.Location = new System.Drawing.Point(653, -4);
             this.btnExit.Name = "btnExit";
@@ -96,9 +96,9 @@ namespace ProjetStage
             this.btnSpecific.FillColor2 = System.Drawing.Color.DarkOrange;
             this.btnSpecific.Font = new System.Drawing.Font("Berlin Sans FB Demi", 12F, System.Drawing.FontStyle.Bold);
             this.btnSpecific.ForeColor = System.Drawing.Color.Black;
-            this.btnSpecific.Location = new System.Drawing.Point(423, 349);
+            this.btnSpecific.Location = new System.Drawing.Point(423, 422);
             this.btnSpecific.Name = "btnSpecific";
-            this.btnSpecific.Size = new System.Drawing.Size(161, 39);
+            this.btnSpecific.Size = new System.Drawing.Size(161, 44);
             this.btnSpecific.TabIndex = 12;
             this.btnSpecific.Text = "Backup Spécifique";
             this.btnSpecific.Click += new System.EventHandler(this.btnSpecific_Click);
@@ -108,7 +108,7 @@ namespace ProjetStage
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Berlin Sans FB Demi", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.label1.Location = new System.Drawing.Point(225, 12);
+            this.label1.Location = new System.Drawing.Point(247, 21);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(221, 31);
             this.label1.TabIndex = 13;
@@ -119,15 +119,15 @@ namespace ProjetStage
             this.guna2Panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(40)))), ((int)(((byte)(40)))));
             this.guna2Panel1.Controls.Add(this.pictureBox1);
             this.guna2Panel1.Controls.Add(this.txtInfo);
-            this.guna2Panel1.Location = new System.Drawing.Point(101, 65);
+            this.guna2Panel1.Location = new System.Drawing.Point(75, 76);
             this.guna2Panel1.Name = "guna2Panel1";
-            this.guna2Panel1.Size = new System.Drawing.Size(483, 259);
+            this.guna2Panel1.Size = new System.Drawing.Size(537, 330);
             this.guna2Panel1.TabIndex = 14;
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::ProjetStage.Properties.Resources.grinning;
-            this.pictureBox1.Location = new System.Drawing.Point(197, 194);
+            this.pictureBox1.Location = new System.Drawing.Point(233, 242);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(80, 42);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -137,11 +137,11 @@ namespace ProjetStage
             // txtInfo
             // 
             this.txtInfo.AutoSize = true;
-            this.txtInfo.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtInfo.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtInfo.ForeColor = System.Drawing.Color.White;
-            this.txtInfo.Location = new System.Drawing.Point(69, 4);
+            this.txtInfo.Location = new System.Drawing.Point(67, 12);
             this.txtInfo.Name = "txtInfo";
-            this.txtInfo.Size = new System.Drawing.Size(339, 255);
+            this.txtInfo.Size = new System.Drawing.Size(410, 300);
             this.txtInfo.TabIndex = 14;
             this.txtInfo.Text = resources.GetString("txtInfo.Text");
             this.txtInfo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -151,7 +151,7 @@ namespace ProjetStage
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(40)))), ((int)(((byte)(60)))));
-            this.ClientSize = new System.Drawing.Size(700, 420);
+            this.ClientSize = new System.Drawing.Size(700, 490);
             this.Controls.Add(this.guna2Panel1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnSpecific);

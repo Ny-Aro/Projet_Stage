@@ -39,14 +39,15 @@ namespace ProjetStage
             // 
             // listFileView
             // 
+            this.listFileView.Alignment = System.Windows.Forms.ListViewAlignment.Default;
             this.listFileView.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(40)))), ((int)(((byte)(80)))));
             this.listFileView.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.listFileView.Font = new System.Drawing.Font("Berlin Sans FB", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listFileView.Font = new System.Drawing.Font("Berlin Sans FB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listFileView.ForeColor = System.Drawing.Color.White;
             this.listFileView.HideSelection = false;
-            this.listFileView.Location = new System.Drawing.Point(39, 35);
+            this.listFileView.Location = new System.Drawing.Point(55, 78);
             this.listFileView.Name = "listFileView";
-            this.listFileView.Size = new System.Drawing.Size(365, 186);
+            this.listFileView.Size = new System.Drawing.Size(470, 219);
             this.listFileView.TabIndex = 1;
             this.listFileView.UseCompatibleStateImageBehavior = false;
             this.listFileView.View = System.Windows.Forms.View.List;
@@ -67,12 +68,12 @@ namespace ProjetStage
             this.rechercheFile.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.rechercheFile.ForeColor = System.Drawing.Color.White;
             this.rechercheFile.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.rechercheFile.Location = new System.Drawing.Point(168, 8);
+            this.rechercheFile.Location = new System.Drawing.Point(315, 12);
             this.rechercheFile.Name = "rechercheFile";
             this.rechercheFile.PasswordChar = '\0';
             this.rechercheFile.PlaceholderText = "Rechercher";
             this.rechercheFile.SelectedText = "";
-            this.rechercheFile.Size = new System.Drawing.Size(200, 21);
+            this.rechercheFile.Size = new System.Drawing.Size(210, 32);
             this.rechercheFile.TabIndex = 2;
             // 
             // rechercheBtn
@@ -82,9 +83,9 @@ namespace ProjetStage
             this.rechercheBtn.FillColor = System.Drawing.Color.Transparent;
             this.rechercheBtn.Image = global::ProjetStage.Properties.Resources.search;
             this.rechercheBtn.ImageRotate = 0F;
-            this.rechercheBtn.Location = new System.Drawing.Point(374, 8);
+            this.rechercheBtn.Location = new System.Drawing.Point(531, 12);
             this.rechercheBtn.Name = "rechercheBtn";
-            this.rechercheBtn.Size = new System.Drawing.Size(26, 21);
+            this.rechercheBtn.Size = new System.Drawing.Size(36, 32);
             this.rechercheBtn.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.rechercheBtn.TabIndex = 3;
             this.rechercheBtn.TabStop = false;
@@ -94,9 +95,9 @@ namespace ProjetStage
             // 
             this.pictureBox1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.pictureBox1.Image = global::ProjetStage.Properties.Resources.curve_arrow;
-            this.pictureBox1.Location = new System.Drawing.Point(4, 8);
+            this.pictureBox1.Location = new System.Drawing.Point(21, 12);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(37, 21);
+            this.pictureBox1.Size = new System.Drawing.Size(30, 32);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -107,7 +108,7 @@ namespace ProjetStage
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(40)))), ((int)(((byte)(80)))));
-            this.ClientSize = new System.Drawing.Size(440, 250);
+            this.ClientSize = new System.Drawing.Size(586, 337);
             this.Controls.Add(this.rechercheBtn);
             this.Controls.Add(this.rechercheFile);
             this.Controls.Add(this.listFileView);
@@ -115,7 +116,7 @@ namespace ProjetStage
             this.Cursor = System.Windows.Forms.Cursors.Default;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FileList";
-            this.Opacity = 0.98D;
+            this.Opacity = 0.99D;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FileList";
             this.Load += new System.EventHandler(this.FileList_Load);
