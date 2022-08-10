@@ -284,7 +284,7 @@ namespace ProjetStage
 
                             #endregion
 
-                            #region Récuperation des données de la table
+                            #region Execution de la commande SQL Firebird
                             try
                             {
                                 if (query == "")
@@ -295,6 +295,20 @@ namespace ProjetStage
                                 {
                                     FbDataAdapter adapter = new FbDataAdapter(query, connectionString);
                                     adapter.Fill(dt);
+                                }
+                                else if (query.Contains("insert"))
+                                {
+                                    FbCommand insertCommand = new FbCommand(query);
+                                    insertCommand.CommandType = CommandType.Text;
+                                    insertCommand.Connection = conn;
+                                    insertCommand.ExecuteNonQuery();
+                                }
+                                else if (query.Contains("update"))
+                                {
+                                    FbCommand updateCommand = new FbCommand(query);
+                                    updateCommand.Connection = conn;
+                                    updateCommand.CommandType = CommandType.Text;
+                                    updateCommand.ExecuteNonQuery();
                                 }
                             }
                             catch (Exception)
