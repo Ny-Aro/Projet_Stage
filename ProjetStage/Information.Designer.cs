@@ -60,9 +60,9 @@ namespace ProjetStage
             this.txtInfo.AutoSize = true;
             this.txtInfo.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtInfo.ForeColor = System.Drawing.Color.White;
-            this.txtInfo.Location = new System.Drawing.Point(0, 108);
+            this.txtInfo.Location = new System.Drawing.Point(6, 108);
             this.txtInfo.Name = "txtInfo";
-            this.txtInfo.Size = new System.Drawing.Size(302, 255);
+            this.txtInfo.Size = new System.Drawing.Size(288, 255);
             this.txtInfo.TabIndex = 13;
             this.txtInfo.Text = resources.GetString("txtInfo.Text");
             this.txtInfo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;

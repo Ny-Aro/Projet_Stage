@@ -60,7 +60,7 @@ namespace ProjetStage
             this.btnAll.Name = "btnAll";
             this.btnAll.Size = new System.Drawing.Size(161, 44);
             this.btnAll.TabIndex = 9;
-            this.btnAll.Text = "Tous Backuper";
+            this.btnAll.Text = "Tous Sauvegarder";
             this.btnAll.Click += new System.EventHandler(this.btnAll_Click);
             // 
             // btnExit
